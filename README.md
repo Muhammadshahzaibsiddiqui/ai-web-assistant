@@ -31,11 +31,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Demo Screenshot
+
+![AI Chat Bot Screenshot](demo.png)
+
 ## Demo Video
 
-Check out the AI Chat Bot in action:
-
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch the AI Chat Bot in action: [demo.mp4](demo.mp4)
